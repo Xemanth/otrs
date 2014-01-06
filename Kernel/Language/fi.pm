@@ -230,7 +230,7 @@ sub Data {
         'Ignore' => 'Ohita',
         'replace with' => 'Korvaa',
         'There is no account with that login name.' => 'Tuntematon käyttäjätunnus.',
-        'Login failed! Your user name or password was entered incorrectly.' =>
+        'Login failed! Your username or password was entered incorrectly.' =>
             'Kirjautuminen epäonnistui! Syötit joko käyttäjätunnuksen tai salasanan väärin.',
         'There is no acount with that user name.' => 'Käyttäjätunnusta ei löydy.',
         'Please contact your administrator' => 'Ota yhteys ylläpitoon',
